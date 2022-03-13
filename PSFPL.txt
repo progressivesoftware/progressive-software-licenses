@@ -1,0 +1,34 @@
+PROGRESSIVE AND FREE SOFTWARE PUBLIC LICENSE (PFSPL)
+Version 0.1 13 March 2022
+
+Copyright (C) 2022 Bruno Moreira-Guedes <brunodout.dev@gmail.com>
+
+This license text can be copied and redistributed verbatim by everyone but no changes are allowed to the original text, under any circumstances, except when producing proposals for future versions of this license that must be submitted to the license repositories at <GITHUB-URL>, <GITLAB-URL> or <PERSONAL-REPO-URL>, to the license author's e-mail address, or to future repositories indicated in the previously mentioned URLs.
+
+PREAMBLE
+
+The Progressive And Free Software Public License, hereafter referred to as PSFPL, is a copyleft license for Free and Open Source Software (FOSS) with a progressive perspective in mind, assuming freedom must be valued but other principles must also be observed and pondered.
+
+Progressive Software (PS) is not only free, but also committed to be inclusive, to respect minorities and unprivileged individuals, to put human rights before companies, to positively impact society and the environment, and to provide ethical software with efforts to reduce oppression in the world by not allowing good technology to be used for those seeking endeavors with negative impact to the world, society, the environment or minoritary groups.
+
+Free software, for the interpretation of this license, is inspired in Free Software Foundation's definition, in a sense that free is not about the price but an effort to keep the freedom to copy, share, change, make derivative works, distribute and redistribute, and use the software as needed for all users.
+
+The PSFPL license, however, does not take freedom as absolute, for freedom above everything does not ensure good use of licensed software. It might guarantee the freedom of the users but does not contribute necessarily to the freedom of overall society. For that reason, Progressive Software puts the freedom of society and the social justice above the freedom of the software users.
+
+Furthermore, the PSFPL benefits society and the original developers of a software by the means of Open Source. Open Source is a software whose source codes, processess, workflows, and other forms of knowledge used to produce and maintain the software are publicly available, permitting any other people to change the software, and allowing those changes to be contributted to the original software, resulting in widespread improvement for both the original software and derivative works.
+
+Finally, PSFPL also seeks to ensure democracy and community participation in the 
+
+The precise terms and conditions under which software under the PSFPL 0.1 license is licensed are the following.
+
+TERMS AND CONDITIONS
+
+0. DEFINITIONS
+
+"This License", "License Terms", or "The License" refers to the version 0.1 of the Progressive and Free Software Public License (PSFPL), available at the repositories mentioned in the copyright notice.
+
+"The Program", "The Software", or "The Work" means any work, of any kind, that is copyrightable and licensed under this license.
+
+"Community", "Society" or "People", unless otherwise specified, means all living human beings on earth, from the moment they are born and knowinly possessing consciousness to the moment of their death.
+
+"Software Community" means the specific individuals or groups of individuals who uses, develops, support, maintain, distribute, benefit from, are impacted by or has any direct or indirect relation with the software.
